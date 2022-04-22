@@ -1,0 +1,3 @@
+﻿  Lab1 Cstr.cpp
+D:\C++\3 semester\Lab1\Lab1 Cstr\Lab1 Cstr\Lab1 Cstr.cpp(203,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab1 Cstr.vcxproj -> D:\C++\3 semester\Lab1\Lab1 Cstr\Debug\Lab1 Cstr.exe
